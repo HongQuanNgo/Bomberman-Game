@@ -112,6 +112,27 @@ The conditions of PlayerWithinRange will be met if the method WithinRange() is r
 
 This method is checking based on 2 cases: South, North and West, East.
 As the monster is going to change its direction, so its eyesight will be limited due to its current direction and other objects in the way. 
+<p align="center">
+  <img src="image/eg1.png">
+</p>
+<p align="center">
+  In this example, as the direction of the monster is towards the south, the monster can only see player 1 and cannot see player 2
+</p>
+
+
+Hence, the progress of checking player being within range of the monster's eyesight is the following: 
+
+1. Checking the current direction of the monster
+
+2. Creating a rectangle with the top left corner coordinates same as the top left coordinates of the monster and spanning to the end of the map in the current direction
+
+3. Checking if are there any objects intersecting and having the same x-coordinate (North or South), or the same Y-coordinate (West or East) with the previously created rectangle (The conditions of having the same X or same Y is to exclude the case that objects are besides the rectangle but are still considered as intersected with the rectangle)
+
+4. The objects that meet the above-mentioned conditions will then be add to the "collidedList".
+
+5. "collidedList" will then be looped through and checked what is the closest object, and if player-type object is the closest object that intersects with the raycasting rectangle from the monster, plus the center-to-center distance from monster to player is less than 48 (2 blocks), withinRange boolean variable will be set to true. 
+
+
 ```php
         public bool WithinRange()
         {
@@ -201,3 +222,63 @@ As the monster is going to change its direction, so its eyesight will be limited
         }
 ```
 
+VIEW
+----------
+This class is to run through the "Entities" list in "EntityManager" class and call the Draw() method for each object. 
+
+```php
+        public void Render()
+        {
+            foreach (Entity i in _entities.ToList())
+            {
+                i.Draw();
+            }
+            
+        }
+```
+CONTROLLER
+----------
+The Update() method of the "GameController" class will be run through every gameloop to check the keyboard input.
+```php
+        public void Update(List<Entity> list)
+        {
+            foreach (Player player in _players)
+            {
+                if (SplashKit.KeyTyped(KeyCode.WKey))
+                {
+                    player.Direction = Direction.N;
+                    player.Move(list);
+                }
+
+                else if (SplashKit.KeyTyped(KeyCode.SKey))
+                {
+                    player.Direction = Direction.S;
+                    player.Move(list);  
+                }
+
+                else if (SplashKit.KeyTyped(KeyCode.AKey))
+                {
+                    player.Direction = Direction.W;
+                    player.Move(list);
+                }
+
+                else if (SplashKit.KeyTyped(KeyCode.DKey))
+                {
+                    player.Direction = Direction.E;
+                    player.Move(list);  
+                }
+
+                if (SplashKit.KeyTyped(KeyCode.SpaceKey))
+                {
+                    player.PutBomb(list);
+                }
+                player.Die(list);
+            }
+            foreach(Monster monster in _monsters)
+            {
+                monster.Die(list);
+            }
+            
+        }
+    }
+```
