@@ -1,0 +1,68 @@
+SplashKit Animation
+
+//Multi-frame: ranges are in[]
+//[a-b] = numbers from a to b inclusive
+//[a,b,c] = explicit values
+//[a-b,c] = combination
+
+//Bomb Frames
+f:[0-2],[0-2],10,0
+
+//Player Frames
+
+//Going North
+f:[3-5],[0,4,8],20,3 
+
+//Going East
+f:[6-8],[1,5,9],20,6 
+
+//Going South
+f:[9-11],[2,6,10],20,9
+
+//Going West
+f:[12-14],[3,7,11],20,12
+
+//Idle
+f:15,0,10, 
+
+//Monsters
+
+//Balloon
+//Going West
+f:[16-18],[1,3,5],20,16
+//Going East
+f:[19-21],[0,2,4],20,19
+
+//Oneal
+//Going West
+f:[22-24],[1,3,5],20,22
+//Going East
+f:[25-27],[0,2,4],20,25
+
+//Flyer
+//Flying
+f:[28-31],[0-3],20,28
+
+
+
+//Identifiers
+//Bomb
+i:Exploded,0
+
+//Player Movement
+i:Idle,15
+i:GoingNorth,3
+i:GoingEast,6
+i:GoingSouth,9
+i:GoingWest,12
+
+//Balloon Movement
+i:BalloonGoingWest,16
+i:BalloonGoingEast,19
+
+//Oneal Movement
+i:OnealGoingWest,22
+i:OnealGoingEast,25
+
+//Flyer movement
+i:FlyerFlying,28

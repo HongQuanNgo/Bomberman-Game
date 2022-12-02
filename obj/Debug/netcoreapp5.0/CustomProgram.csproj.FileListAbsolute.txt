@@ -1,0 +1,16 @@
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.csproj.AssemblyReference.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.AssemblyInfoInputs.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.AssemblyInfo.cs
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.exe
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.deps.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.runtimeconfig.dev.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\ref\CustomProgram.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\ref\CustomProgram.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.pdb
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\CustomProgram.genruntimeconfig.cache

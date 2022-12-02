@@ -1,0 +1,54 @@
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Demo.exe
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Demo.deps.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Demo.runtimeconfig.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Demo.runtimeconfig.dev.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\ref\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Demo.pdb
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.AssemblyInfo.cs
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\ref\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.pdb
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.genruntimeconfig.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\bin\Debug\netcoreapp5.0\Stateless.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\Demo\obj\Debug\netcoreapp5.0\Demo.csproj.CopyComplete
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.exe
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.deps.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.runtimeconfig.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.runtimeconfig.dev.json
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\ref\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.pdb
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Stateless.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.csproj.AssemblyReference.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.AssemblyInfoInputs.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.AssemblyInfo.cs
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.csproj.CopyComplete
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\ref\Demo.dll
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.pdb
+C:\Users\Quan\Documents\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.genruntimeconfig.cache
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.exe
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.deps.json
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.runtimeconfig.json
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.runtimeconfig.dev.json
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.dll
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Demo.pdb
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\bin\Debug\netcoreapp5.0\Stateless.dll
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.csproj.AssemblyReference.cache
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.AssemblyInfoInputs.cache
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.AssemblyInfo.cs
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.csproj.CoreCompileInputs.cache
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.csproj.CopyComplete
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.dll
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\refint\Demo.dll
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.pdb
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\Demo.genruntimeconfig.cache
+G:\Other computers\My Laptop\quan_docs\uni\first_year\sem2\OOP\CustomProgram\obj\Debug\netcoreapp5.0\ref\Demo.dll

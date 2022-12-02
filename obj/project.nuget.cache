@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "b0a76msfZqwMkek2QQmtXQJqKrppsSW8QTdUNcTzHrd/QbNuwQRcjgign8BNVAffVO6IiN3Tceq0LK66yqDwwg==",
+  "success": true,
+  "projectFilePath": "G:\\Other computers\\My Laptop\\quan_docs\\uni\\first_year\\sem2\\OOP\\CustomProgram\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ngoho\\.nuget\\packages\\stateless\\5.12.0\\stateless.5.12.0.nupkg.sha512",
+    "C:\\Users\\ngoho\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512",
+    "C:\\Users\\ngoho\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ngoho\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\ngoho\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
